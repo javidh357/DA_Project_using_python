@@ -56,24 +56,4 @@ numpy
 matplotlib  
 seaborn  
 jupyter
-👤 Author
-Kovvuru Javidh
-📍 Andhra Pradesh, India
-🔗 LinkedIn
-💼 Data Analytics Enthusiast | Python | SQL | Power BI | Excel
 
-📬 Contact
-For queries, collaboration, or feedback, reach out via LinkedIn or open a GitHub issue.
-
-🏷️ License
-This project is licensed under the MIT License.
-
-⭐ Acknowledgements
-Thanks to open-source communities, mentors, and data providers who supported this project.
-
-yaml
-Copy code
-
----
-
-Let me know once you’ve saved it, o
